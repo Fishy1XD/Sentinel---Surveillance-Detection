@@ -1,3 +1,5 @@
+![Sentinel logo](assets/logo-radar-wordmark.svg)
+
 # Sentinel — Surveillance Detection Dashboard
 
 Brief
